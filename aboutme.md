@@ -3,7 +3,8 @@ layout: page
 title: About me
 ---
 
-Hi, My name is Tao Fang.
+Hi, My name is Tao Fang. Currently I'm a PhD candidate in Bioinformatics in  Prof. Christian von Mering's Group in UZH.
+I register in The Life Science Zurich Graduate School program(run jointly by the ETH Zurich and the University of Zurich) and I'm Member of SIB Swiss Institute of Bioinformatics
 
 ## Research Interests:
 - Protein interaction
@@ -16,4 +17,6 @@ I’m open minded and happy to explore new things. Feel free to contact me if yo
 
 
 ### my resume
-to be finished 
+- Master's degree  of Computational Biology and Bioinformatics in ETH
+- Bachelor's degree of Biomedical Engineering in UESTC
+- to be finished
