@@ -16,7 +16,7 @@ I register in The Life Science Zurich Graduate School program(run jointly by the
 I’m open minded and happy to explore new things. Feel free to contact me if you see poential collaboration opportunities :)
 
 
-### my resume
+## My Resume
 - Master's degree  of Computational Biology and Bioinformatics in ETH
 - Bachelor's degree of Biomedical Engineering in UESTC
 - Check my Linkedin file
