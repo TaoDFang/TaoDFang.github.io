@@ -27,7 +27,7 @@ author: Tao Fang
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "index"
+#  Home: "index" cancel home page. as it will reffer by main url directly 
   Blog: "blog"
   Events: "Event"
   About : "About"
