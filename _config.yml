@@ -27,10 +27,10 @@ author: Tao Fang
 
 # List of links in the navigation bar
 navbar-links:
-#  Home: "index" cancel home page. as it will reffer by main url directly 
+#  Home: "index" cancel home page. as it will reffer by main url directly
   Blog: "blog"
   Events: "Event"
-  About : "About"
+  About: "About"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -139,7 +139,7 @@ fb_comment_id: "2938331052882481"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+#excerpt_length: 50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
