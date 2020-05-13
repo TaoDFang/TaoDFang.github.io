@@ -20,7 +20,7 @@ I’m open minded and happy to explore new things. Feel free to contact me if yo
 ## My Resume
 - Master's degree  of Computational Biology and Bioinformatics in ETH
 - Bachelor's degree of Biomedical Engineering in UESTC
-- Check my Linkedin file
+- Please check my Linkedin profile
 - to be finished
 
 ![me](assets/img/me.jpg)
