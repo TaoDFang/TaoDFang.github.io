@@ -28,8 +28,8 @@ author: Tao Fang
 # List of links in the navigation bar
 navbar-links:
   Home: "https://taodfang.github.io"
-  Blog: "/blog"
-  About Me: "aboutme"
+  Events and News: "Event"
+  About : "About"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -152,7 +152,6 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM
