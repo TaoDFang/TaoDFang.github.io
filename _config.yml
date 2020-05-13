@@ -130,7 +130,7 @@ google_analytics: "UA-166321486-1"
 disqus: "fangtalon"
 
 # To use Facebook Comments, fill in a Facebook App ID
-fb_comment_id: "2938331052882481"
+#fb_comment_id: "2938331052882481"
 
 # --- Misc --- #
 
