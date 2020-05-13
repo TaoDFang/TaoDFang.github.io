@@ -28,7 +28,7 @@ author: Tao Fang
 # List of links in the navigation bar
 navbar-links:
   Home: "https://taodfang.github.io"
-  Events and News: "Event"
+  Events and News : "Event"
   About : "About"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
