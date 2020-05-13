@@ -30,6 +30,7 @@ navbar-links:
 #  Home: "index" cancel home page. as it will reffer by main url directly
   Blog: "blog"
   Events: "Event"
+  News: "News"
   About: "About"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
