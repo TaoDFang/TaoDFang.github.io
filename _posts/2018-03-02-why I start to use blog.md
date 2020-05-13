@@ -1,5 +1,5 @@
 ---
-layout: tao_post
+layout: post
 title:  "Why do I start to  use blog?"
 date:   2018-03-02 09:49:47 +0100
 categories: blogs academic test
